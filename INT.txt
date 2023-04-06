@@ -1,0 +1,25 @@
+CA-03
+INT-301: Open Source and Technologies
+Report of project
+
+
+
+
+Name of the student: Charu Karmo
+Registration no: 11915086
+Roll no: 60
+Section: KE057
+Name of the faculty: Navjot Kaur
+Git hub Link: https://github.com/Rahul-0408/INT-301
+
+
+
+Introduction:
+This report explains about free and an open-source software program that allows you to perform a comprehensive audit of your Windows computer's hardware and software configurations.
+
+Objective of the project: 
+To use any open-source software to collect detailed information about the computer's operating system, installed software, hardware components, and network settings, and to present the data in an easy-to-read report.
+
+Description of the project:
+WinAudit is easy to use and an open-source software.The program reports on virtually every aspect of computer inventory and configuration. Results are displayed in web-page format, categorised for ease of viewing and text searching. Whether your interest is in software compliance, hardware inventory, technical support, security or just plain curiosity, WinAudit has it all. The program has advanced features such as service tag detection, hard-drive failure diagnosis, network port to process mapping, network connection speed, system availability statistics as well as Windows update and firewall settings.
+
