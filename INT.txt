@@ -43,4 +43,11 @@ Assumptions:
 WinAudit assumes that the user has administrative privileges on the computer system being audited. Without administrative privileges, the software may not be able to access certain system files and registry entries, which could result in incomplete or inaccurate audit results.
 Additionally, WinAudit assumes that the computer system being audited is running a Windows operating system. The software is not designed to audit other operating systems such as macOS or Linux.
 Finally, WinAudit assumes that the computer system being audited is functioning properly and that all hardware components and software applications are installed and functioning correctly. If there are hardware or software issues, WinAudit may not be able to provide accurate information or may not be able to collect information at all.
+Dependencies:
+WinAudit has a few dependencies that need to be installed on the computer system before it can be run successfully. These dependencies include:
+Microsoft .NET Framework: WinAudit requires .NET Framework to be installed on the computer system in order to run. The version of .NET Framework required by WinAudit varies depending on the version of Windows being used.
+Microsoft Visual C++ Redistributable: WinAudit requires the Microsoft Visual C++ Redistributable package to be installed on the computer system in order to run.
+WMI (Windows Management Instrumentation): WinAudit uses WMI to gather information about the computer system. WMI is included with all modern versions of Windows, but it must be enabled and running on the computer system for WinAudit to be able to access it.
+
+Overall, these dependencies are typically pre-installed on most Windows-based computer systems, but it's important to ensure that they are up to date and properly configured in order to ensure that WinAudit runs smoothly and provides accurate audit results.
 
