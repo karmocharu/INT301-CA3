@@ -10,7 +10,7 @@ Registration no: 11915086
 Roll no: 60
 Section: KE057
 Name of the faculty: Navjot Kaur
-Git hub Link: https://github.com/karmocharu/INT301-CA3
+Git hub Link: https://github.com/karmocharu/INT301-CA3/commits/master
 
 
 
